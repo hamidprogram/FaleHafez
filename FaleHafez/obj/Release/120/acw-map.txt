@@ -1,0 +1,9 @@
+FaleHafez.MineActivity, FaleHafez;crc64b756a1260d5824f4.MineActivity
+FaleHafez.MineActivity;crc64b756a1260d5824f4.MineActivity
+falehafez.MineActivity;crc64b756a1260d5824f4.MineActivity
+FaleHafez.SplashActivity, FaleHafez;crc64b756a1260d5824f4.SplashActivity
+FaleHafez.SplashActivity;crc64b756a1260d5824f4.SplashActivity
+falehafez.SplashActivity;crc64b756a1260d5824f4.SplashActivity
+Google.Common.Util.Concurrent.IListenableFuture, Xamarin.Google.Guava.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
+Google.Common.Util.Concurrent.IListenableFuture;com.google.common.util.concurrent.ListenableFuture
+com.google.common.util.concurrent.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
